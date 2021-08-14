@@ -1,1 +1,0 @@
-# TIVAKAS-Calculator
